@@ -88,4 +88,6 @@ https://x.com/Baheet_/status/1965758390430208066
 
 - Golang API Course Book - [Date: Nov-26-2025](https://edu.anarcho-copy.org/Programming%20Languages/Go/Building%20RESTful%20Web%20Serviceswith%20Go.pdf)
 
-- Using Repository Pattern in Node.js, TS, Prisma - [Date: Dec-6-2025](https://blog.alexrusin.com/clean-architecture-in-node-js-implementing-the-repository-pattern-with-typescript-and-prisma/)
+- Structuring Backend in Node.js, TS, Prisma using the Repository Design Pattern - [Date: Dec-6-2025](https://blog.alexrusin.com/clean-architecture-in-node-js-implementing-the-repository-pattern-with-typescript-and-prisma/)
+
+- React Internals Deep Dive - [Date: Dec-8-2025](https://jser.dev/series/react-source-code-walkthrough/)
